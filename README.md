@@ -2,7 +2,7 @@ An attempt to gain better comfort with functional programming, command-line node
 
 ### FunctionalJS
 * A node-based learning tool designed to give basic functional JS knowledge. 
-* [Download here](http://nodeschool.io/#functionaljs)
+* [Find here](http://nodeschool.io/#functionaljs)
 
 ### Euler
 * My javascript solutions to some Project Euler problems.
